@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog. I am Daniel Mbiye and I'm a Senior Software Engineer
 
-![Image of fast.ai logo](images/logo.png)
+I intend to use this blog as a way to document what I've learned over the years and the new stuff that I will learn in the future
 
-## This is a title
+I've been programming for more than ten years; everything from embedded software through mobile apps to web applications
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Interests
+
+My interests currently is in building intelligent systems
